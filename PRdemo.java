@@ -7,6 +7,8 @@ class PRdemo {
         System.out.println("Hello Rahul Suthar");
         System.out.println("This line add for Work 19");
         System.out.println("This Line for Work 20 with bug");
-        System.out.println("New line add Successfully");
+        System.out.println("New line add Successfully")
+        System.out.println("Good AfterNoon");
+        System.out.println("Local Time is 03:02PM")
     }
 }
